@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @genga898
-- 👀 I’m interested in A.I and machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on A python A.I project
+- 👀 I’m interested in A.I and web development
+- 🌱 I’m currently learning C# and the .NET framework
 - 📫 How to reach me genga898@gmail.com
 
 <!---
