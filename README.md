@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @genga898
-- 👀 I’m interested in A.I and web development
-- 🌱 I’m currently learning C# and the .NET framework
-- 📫 How to reach me genga898@gmail.com
 
-<!---
-genga898/genga898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-readme-stats.vercel.app/api?username=genga898&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=genga898&theme=merko&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=genga898&theme=merko&show_icons=true&hide_border=false&layout=compact)
