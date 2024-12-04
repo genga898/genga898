@@ -8,3 +8,4 @@
 </a>
 <br/>
 <br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=genga898&theme=nord&card_width=500&card_height=150" alt="GitHub Streak" /></a>
